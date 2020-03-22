@@ -1,0 +1,8 @@
+varchar=String
+char=String
+int=Integer
+float=Float
+double=Double
+date=Date
+datetime=Date
+decimal=Double
